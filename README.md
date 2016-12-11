@@ -1,4 +1,6 @@
 # CUDA_CNN
-### Time&Version
+### Time & Version
 ```
-Simple 2D convolution: 392ms size: 10
+Simple 2D convolution: 
+- size: 10, 392ms
+```
